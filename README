@@ -1,0 +1,10 @@
+Team Members:
+Aniket Devle (ASU ID : 1220351418)
+Fenny Zalavadia (ASU ID : 1221443561)
+Jason Jimenez ( ASU ID : 1215972966)
+
+Web-tier’s URL: http://ec2-18-207-105-167.compute-1.amazonaws.com/index.php
+SQS Queue Request Queue Name: face-recogntion-request-queue
+SQS Response Queue Name: face-recogntion-response-queue
+S3 Image Bucket Name: face-recognition-s3-img
+S3 Classification Bucket Name: face-recognition-s3-name
